@@ -1,6 +1,8 @@
 # Configuration files for common apps
 
 - bash
+  - profile
+  - prompt
 - vim
 
 ## Install
